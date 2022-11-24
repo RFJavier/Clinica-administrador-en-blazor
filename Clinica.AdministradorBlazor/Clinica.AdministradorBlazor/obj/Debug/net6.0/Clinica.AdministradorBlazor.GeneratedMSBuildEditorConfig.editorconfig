@@ -11,53 +11,121 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Clinica.AdministradorBlazor
 build_property.RootNamespace = Clinica.AdministradorBlazor
-build_property.ProjectDir = C:\Users\Javier Rivera\source\repos\Clinica.AdministradorBlazor\Clinica.AdministradorBlazor\
+build_property.ProjectDir = C:\Users\Javier Rivera\OneDrive\Desktop\ClinicawebAdministrador\Clinica.AdministradorBlazor\Clinica.AdministradorBlazor\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Javier Rivera\source\repos\Clinica.AdministradorBlazor\Clinica.AdministradorBlazor
+build_property.MSBuildProjectDirectory = C:\Users\Javier Rivera\OneDrive\Desktop\ClinicawebAdministrador\Clinica.AdministradorBlazor\Clinica.AdministradorBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/App.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Home.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Anexo/Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5leG9cQWdyZWdhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Anexo/Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5leG9cRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Anexo/Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5leG9cRWxpbWluYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Anexo/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5leG9cSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Examen/Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbWVuXEFncmVnYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Examen/Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbWVuXEVkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Examen/Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbWVuXEVsaW1pbmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Examen/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbWVuXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Index.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Horario/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9yYXJpb1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Rol/Agregar.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Medico/Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvXEFncmVnYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Medico/Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvXEVkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Medico/Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvXEVsaW1pbmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Medico/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Paciente/Agregar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcQWdyZWdhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Paciente/Editar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Paciente/Eliminar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcRWxpbWluYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Paciente/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Rol/Agregar.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sXEFncmVnYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Rol/Index.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Rol/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sXEluZGV4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Usuario/Index.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Pages/Usuario/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/LoginLayout.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/LoginLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/SurveyPrompt.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/_Imports.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/MainLayout.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3wtbv1t8oc
 
-[C:/Users/Javier Rivera/source/repos/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/NavMenu.razor]
+[C:/Users/Javier Rivera/OneDrive/Desktop/ClinicawebAdministrador/Clinica.AdministradorBlazor/Clinica.AdministradorBlazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-kjubm7ok12

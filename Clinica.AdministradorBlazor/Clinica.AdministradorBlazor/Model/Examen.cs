@@ -1,13 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Clinica.AdministradorBlazor.Model
 {
-    public class Examen
+    public class Examenes
     {
+
+        [Key]
         public int Id { get; set; }
-        public string Examenes { get; set; }
+
+        [Required(ErrorMessage = "Examen es Obligatorio")]
+        [StringLength(1500, ErrorMessage = "Maximo de 1500 Caracteres")]
+        public string Examen { get; set; }
+
     }
 }

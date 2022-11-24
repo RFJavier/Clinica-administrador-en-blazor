@@ -199,13 +199,13 @@
       "mscorlib.dll": "sha256-SboUbkX8s5RVQGtnN5Q67MBZW0I\/P3aeEMENJq8gv8M=",
       "netstandard.dll": "sha256-lZ8L5iiSghlvyt2ie2YdBYAtJbVa4mvpvBX3W9ihjLc=",
       "System.Private.CoreLib.dll": "sha256-jECkJy2Sjpl59QEL3nO3p8nwKGXvnJpXaKQF\/+MTw04=",
-      "Clinica.AdministradorBlazor.dll": "sha256-OcTWzVLUVXdKgIegnp+FAAXBnaMqGHy2uBCNp1kSg3o="
+      "Clinica.AdministradorBlazor.dll": "sha256-8l8AgDu869f6Vx1wJ4dv3fBfNMfI4AJCaxY4Qbqr2C4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Clinica.AdministradorBlazor.pdb": "sha256-Fx4zBmIzbLkhRDUzwT++Ob5wSh9kiP4rpUZx1aRnfm0="
+      "Clinica.AdministradorBlazor.pdb": "sha256-WdVUZXQxzYhCE4TN7TSl5fl94onLSQykNM\/QZzOt7gk="
     },
     "runtime": {
       "dotnet.6.0.10.xzx8x1jv6b.js": "sha256-KtM3Wrooexmrt5NmqvZfWoDPtNIe6wZqLopR6ToqUPg=",

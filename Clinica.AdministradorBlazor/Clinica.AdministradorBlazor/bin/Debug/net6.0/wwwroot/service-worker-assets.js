@@ -877,11 +877,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-vHb2cjAgqRXpRvWPjGXIJQ0CEG0WxMo1GQtgvDV\/R94=",
+      "hash": "sha256-5Qai8WJBLCo+aouLkjlwXq66BvBf3SGk6eeS+M10Sas=",
       "url": "_framework\/Clinica.AdministradorBlazor.dll"
     },
     {
-      "hash": "sha256-HxlRL2DVBWkg+8TD0WAciLWaF9D0KnqphmzHIEfc1Jo=",
+      "hash": "sha256-tLDCccF2hiva2RHIhY4yFMhcd5En2s3acGq8OTzQuSc=",
       "url": "_framework\/Clinica.AdministradorBlazor.pdb"
     },
     {
@@ -889,7 +889,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-OlAvwzEoRDj04udY05Kzj6ELxhaG\/EIau\/ceT+h\/H0U=",
+      "hash": "sha256-ZzigZg0F74gwT0S\/xfzSWCVEMHHmvq7TElBmTjn5Z0c=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -901,5 +901,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "0YzOCOhp"
+  "version": "zNfSLMj8"
 };
